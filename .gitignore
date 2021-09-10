@@ -3,3 +3,6 @@
 /.idea/Page-Spider.iml
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
+/.idea/dataSources.xml
+/.idea/sqldialects.xml
+/words.db
