@@ -1,1 +1,1 @@
-Excercise files to completed UDEMY course [Learning Python with Pycharm](https://www.linkedin.com/learning/learning-python-with-pycharm/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true)
+Excercise files to completed LinkedIn Learning course [Learning Python with Pycharm](https://www.linkedin.com/learning/learning-python-with-pycharm/welcome?autoAdvance=true&autoSkip=false&autoplay=true&resume=true).
